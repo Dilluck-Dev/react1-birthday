@@ -1,7 +1,10 @@
+import List from "./components/List";
+
 function App() {
   return (
     <div className="App">
-      <p className="text-red-500">Hi</p>
+      <p className="text-red-100">Hi</p>
+      <List />
     </div>
   );
 }
